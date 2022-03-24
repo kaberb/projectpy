@@ -309,3 +309,5 @@ if __name__ == '__main__':
     print("Nombre de sous-ensembles à 3 éléments = ",len(SS_ENS_3))
     print(SS_ENS_3)
 
+    print("hi")
+
